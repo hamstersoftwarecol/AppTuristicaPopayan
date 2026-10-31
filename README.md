@@ -22,8 +22,6 @@ git clone https://github.com/hamstersoftwarecol/AppTuristicaPopayan.git
 cd AppTuristicaPopayan
 ```
 
-El acceso al repositorio privado requiere una cuenta autorizada de GitHub.
-
 La configuración local utiliza SQLite y colas/caché en base de datos para poder ejecutar la aplicación sin servicios externos.
 
 ```sh
